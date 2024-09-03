@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tasks Room</string>
+    <string name="delete_description">Delete</string>
+    <string name="visualizar_registros">Visualizar registros</string>
+    <string name="titulo_do_registro">Título do Registro</string>
+    <string name="registro">Registro:</string>
+    <string name="titulo">Título</string>
+    <string name="anotacao">Anotação</string>
+    <string name="sua_anotacao_aqui">Sua Anotação aqui</string>
+    <string name="data_e_hora">Data e Hora</string>
+    <string name="selecione_data_e_hora">Selecione data e hora</string>
+    <string name="selecionar_data">Selecionar Data</string>
+    <string name="selecionar_hora">Selecionar Hora</string>
+    <string name="salvar">Salvar</string>
+</resources>
